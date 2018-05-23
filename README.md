@@ -1,4 +1,4 @@
-# github-bulkedit
+# github-bulkeditor
 
 This project is used to apply bulk updates to github and github enterprise repositories. It
 can turn off unused github features such as issues, projects, etc. in case your org is using 
